@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="42.792" viewBox="0 0 30 42.792">
+  <g id="Home" transform="translate(133 -327.883)">
+    <text id="Notes" transform="translate(-118 367.675)" fill="#3930d8" font-size="10" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-14.25" y="0">Notes</tspan></text>
+    <g id="notes-2" data-name="notes" transform="translate(-131.547 306.503)">
+      <path id="Path_961" data-name="Path 961" d="M21.066,104.457,14.123,86.9a.566.566,0,0,0-.46-.353L2.9,85.282a.558.558,0,0,0-.631.475l0,.021L0,103.9a.566.566,0,0,0,.488.635l.014,0L20.327,106.8h.065a.566.566,0,0,0,.566-.513l.147-1.571A.565.565,0,0,0,21.066,104.457Z" transform="translate(0 -60.504)" fill="#bebebe"/>
+      <path id="Path_962" data-name="Path 962" d="M105.759,85.8a.566.566,0,0,0-.628-.5h0l-4.87.573-14.123,1.5c-.308.035-.792.506-.761.815l1.7,18.122a.566.566,0,0,0,.566.513H87.7l19.821-2.265a.566.566,0,0,0,.5-.627v-.007Z" transform="translate(-80.837 -60.522)" fill="#fff" stroke="#bebebe" stroke-width="1"/>
+      <path id="Path_963" data-name="Path 963" d="M299.305,99.876a.566.566,0,0,1-.4-.967l2.832-2.832a.566.566,0,1,1,.815.787l-.014.014-2.832,2.832A.566.566,0,0,1,299.305,99.876Z" transform="translate(-282.878 -70.568)" fill="#262626"/>
+      <path id="Path_979" data-name="Path 979" d="M2.832,0A2.832,2.832,0,1,1,0,2.832,2.832,2.832,0,0,1,2.832,0Z" transform="translate(18.127 21.38)" fill="#bebebe"/>
+    </g>
+  </g>
+</svg>
